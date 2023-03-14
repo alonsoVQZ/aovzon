@@ -7,3 +7,11 @@ The technologies used are Python(Flask, SQLAlchemy, Alembic) and Javascript(Reac
 - [Live Web Site](https://python-project-starter.onrender.com/)
 - [API Documentation](https://python-project-starter.onrender.com/)
 - [Database Schema](https://python-project-starter.onrender.com/)
+
+## Walkthrough
+
+Log In Page
+![image](https://user-images.githubusercontent.com/94940188/224867514-1b77f974-b674-44e2-8d64-85e912d15306.png)
+
+Sign Up Page
+![image](https://user-images.githubusercontent.com/94940188/224867662-ac78f851-d489-4fc3-a5a2-bc67f7b60cfe.png)
