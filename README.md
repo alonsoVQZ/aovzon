@@ -4,6 +4,6 @@ The project is a clone of the Amazon platform, it currently has an authenticatio
 The technologies used are Python(Flask, SQLAlchemy, Alembic) and Javascript(React, Redux)
 
 ## Links
-### - [Live Web Site](https://python-project-starter.onrender.com/)
-### - [API Documentation](https://python-project-starter.onrender.com/)
-### - [Database Schema](https://python-project-starter.onrender.com/)
+- [Live Web Site](https://python-project-starter.onrender.com/)
+- [API Documentation](https://python-project-starter.onrender.com/)
+- [Database Schema](https://python-project-starter.onrender.com/)
